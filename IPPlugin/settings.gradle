@@ -1,0 +1,3 @@
+rootProject.name='IPPlugin'
+include ':app'
+include ':unityplugin'
