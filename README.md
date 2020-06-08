@@ -1,4 +1,5 @@
 # JavaToUnity-Plugin
+This Plugin is used for procedural creation of a texture as a bitmap file, which is then transported as ByteArray to and read by C# script to use as a texture file for a material.
 
 # To Open this Project:
 1. Clone the repository
