@@ -4,4 +4,5 @@ This Plugin is used for procedural creation of a texture as a bitmap file, which
 # To Open this Project:
 1. Clone the repository
 2. Launch Android Studio and open existing project and select the cloned directory.
+4. Build the module and locate ```classes.jar``` in ```...\JavaToUnity-Plugin-master\unityplugin\build\intermediates\aar_main_jar\debug```
 3. ```classes.jar``` contains all the implementation required in UNITY. This file along with the ```AndroidManifest.xml``` needs to be imported in the ```Assets/Plugins``` directory of your target UNITY project.
